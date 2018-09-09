@@ -18,7 +18,7 @@ You must have SSH access to a server with **PHP 5.5+** and **MySQL 5.5+**, and i
 composer create-project flarum/flarum . --stability=beta
 ```
 
-阅读[安装指南](https://ltdsa.github.io/flarum/installation.html)来获取更多信息。
+阅读[安装指南](https://ltdsa.github.io/flarum/Installation.html)来获取更多信息。
 
 ## 开发
 
@@ -31,7 +31,7 @@ Refer to the [FAQ](https://flarum.org/docs/faq/), [Documentation](https://flarum
 
 ## Contributing
 
-Flarum is open-source and we would love your help building it!请阅读[Contributing Guide](https://github.com/flarum/flarum/blob/master/CONTRIBUTING.md)来了解您可以帮助些什么。
+Flarum is open-source and we would love your help building it!请阅读[Contributing指南](https://github.com/flarum/flarum/blob/master/CONTRIBUTING.md)来了解您可以帮助些什么。
 ## 协议
 
 版权 (c) 2015 Toby Zerner。代码的发布遵循[MIT协议](https://github.com/flarum/flarum/blob/master/LICENSE)。

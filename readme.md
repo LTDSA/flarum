@@ -18,7 +18,7 @@ You must have SSH access to a server with **PHP 5.5+** and **MySQL 5.5+**, and i
 composer create-project flarum/flarum . --stability=beta
 ```
 
-Read the [Installation Guide](https://flarum.org/docs/installation/) for more information.
+阅读[安装指南](https://ltdsa.github.io/flarum/installation.html)来获取更多信息。
 
 ## Development
 

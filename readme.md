@@ -1,6 +1,6 @@
 ![Flarum](https://flarum.org/img/logo.png)
 
-**[Flarum](https://flarum.org/) 是一款免费、开源的社区软件。**它通过PHP和[Mithril.js](https://mithril.js.org/)建立。It is:
+**[Flarum](https://flarum.org/) 是一款免费、开源的社区软件。** 它通过PHP和[Mithril.js](https://mithril.js.org/)建立。It is:
 
 * **简单**, with a responsive UI that is optimized for touch devices
 * **快速**, with a total JS payload size of ~130 KB gzipped
